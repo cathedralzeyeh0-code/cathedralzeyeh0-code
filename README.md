@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**cathedralzeyeh0-code/cathedralzeyeh0-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business systems analyst with a background in finance and accounting. Imap processes, analyze data, visualize data using dashboards, and turn business needs into clear requirements.
 
-Here are some ideas to get you started:
+## About me
+- MS in Management Information Systems
+- MBA in Accounting & Finance and BSc in Accounting
+- Certified: ECBA (IIBA) and CAPM (PMI)
+- Former Business Systems Analyst Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tools I work with
+- Microsoft Excel
+- SAP Signavio- BPMN
+- SAP S/4HANA
+- Make (Automation and AI)
+- n8n (Automation and AI)
+- Power BI
+- Tableau
+- Python
+- Rapidminer (Data mining)
+- Google Sheets
+
+  ## Projects
+  - [Process Mapping](..)
+
+  ## Let's connect!
+  [Linkedin](www.linkedin.com/in/cathedral-zeyeh)
