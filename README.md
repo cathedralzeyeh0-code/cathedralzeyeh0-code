@@ -25,4 +25,4 @@ I'm a business systems analyst with a background in finance and accounting. Imap
   - [Process Mapping](..)
 
   ## Let's connect!
-  [Linkedin](https://www.linkedin.com/in/cathedral-zeyeh))
+  [Linkedin](https://www.linkedin.com/in/cathedral-zeyeh)
